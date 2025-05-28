@@ -1,0 +1,151 @@
+Transaction_ID,Warehouse_ID,Product_Category,Date,Transaction_Type,Quantity,Reason
+TXN8749,WH001,Paper Products,2024-10-01,ADD,3500,New stock received
+TXN4119,WH001,Writing Tools,2024-10-01,REMOVE,3705,Customer shipment
+TXN2588,WH001,Electronics,2024-10-01,ADD,4806,New stock received
+TXN6804,WH001,Printing Supplies,2024-10-01,REMOVE,2537,Customer shipment
+TXN7735,WH001,Packaging,2024-10-01,REMOVE,3890,Customer shipment
+TXN1887,WH002,Paper Products,2024-10-01,REMOVE,3841,Customer shipment
+TXN1993,WH002,Writing Tools,2024-10-01,ADD,2920,New stock received
+TXN6559,WH002,Electronics,2024-10-01,REMOVE,4455,Customer shipment
+TXN5073,WH002,Printing Supplies,2024-10-01,ADD,2524,New stock received
+TXN4116,WH002,Packaging,2024-10-01,ADD,4875,New stock received
+TXN3296,WH003,Paper Products,2024-10-01,REMOVE,3529,Customer shipment
+TXN4006,WH003,Writing Tools,2024-10-01,REMOVE,4950,Customer shipment
+TXN8579,WH003,Electronics,2024-10-01,REMOVE,2035,Customer shipment
+TXN2235,WH003,Printing Supplies,2024-10-01,ADD,2684,New stock received
+TXN2604,WH003,Packaging,2024-10-01,REMOVE,2019,Customer shipment
+TXN9856,WH004,Paper Products,2024-10-01,ADD,4368,New stock received
+TXN2528,WH004,Writing Tools,2024-10-01,ADD,4559,New stock received
+TXN3724,WH004,Electronics,2024-10-01,ADD,2399,New stock received
+TXN8956,WH004,Printing Supplies,2024-10-01,REMOVE,4701,Customer shipment
+TXN4502,WH004,Packaging,2024-10-01,REMOVE,2971,Customer shipment
+TXN1960,WH005,Paper Products,2024-10-01,REMOVE,3906,Customer shipment
+TXN7209,WH005,Writing Tools,2024-10-01,ADD,4518,New stock received
+TXN7396,WH005,Electronics,2024-10-01,ADD,3166,New stock received
+TXN8454,WH005,Printing Supplies,2024-10-01,REMOVE,3115,Customer shipment
+TXN7930,WH005,Packaging,2024-10-01,REMOVE,2833,Customer shipment
+TXN3536,WH001,Paper Products,2024-11-01,REMOVE,3823,Customer shipment
+TXN5861,WH001,Writing Tools,2024-11-01,ADD,4774,New stock received
+TXN1958,WH001,Electronics,2024-11-01,ADD,3982,New stock received
+TXN6138,WH001,Printing Supplies,2024-11-01,ADD,2853,New stock received
+TXN1821,WH001,Packaging,2024-11-01,ADD,2050,New stock received
+TXN9238,WH002,Paper Products,2024-11-01,REMOVE,2574,Customer shipment
+TXN1931,WH002,Writing Tools,2024-11-01,ADD,3148,New stock received
+TXN4044,WH002,Electronics,2024-11-01,ADD,4197,New stock received
+TXN2113,WH002,Printing Supplies,2024-11-01,ADD,4361,New stock received
+TXN7615,WH002,Packaging,2024-11-01,ADD,4617,New stock received
+TXN5033,WH003,Paper Products,2024-11-01,ADD,4352,New stock received
+TXN2343,WH003,Writing Tools,2024-11-01,ADD,3715,New stock received
+TXN9565,WH003,Electronics,2024-11-01,REMOVE,2681,Customer shipment
+TXN5272,WH003,Printing Supplies,2024-11-01,REMOVE,2837,Customer shipment
+TXN6147,WH003,Packaging,2024-11-01,ADD,3077,New stock received
+TXN5351,WH004,Paper Products,2024-11-01,ADD,4491,New stock received
+TXN3144,WH004,Writing Tools,2024-11-01,REMOVE,4660,Customer shipment
+TXN8491,WH004,Electronics,2024-11-01,REMOVE,4311,Customer shipment
+TXN2188,WH004,Printing Supplies,2024-11-01,REMOVE,3595,Customer shipment
+TXN8508,WH004,Packaging,2024-11-01,ADD,2004,New stock received
+TXN2200,WH005,Paper Products,2024-11-01,ADD,3126,New stock received
+TXN9288,WH005,Writing Tools,2024-11-01,ADD,3219,New stock received
+TXN3170,WH005,Electronics,2024-11-01,REMOVE,2773,Customer shipment
+TXN2127,WH005,Printing Supplies,2024-11-01,REMOVE,2876,Customer shipment
+TXN7054,WH005,Packaging,2024-11-01,ADD,2991,New stock received
+TXN3584,WH001,Paper Products,2024-12-01,REMOVE,4931,Customer shipment
+TXN9900,WH001,Writing Tools,2024-12-01,REMOVE,2046,Customer shipment
+TXN9666,WH001,Electronics,2024-12-01,REMOVE,4914,Customer shipment
+TXN5905,WH001,Printing Supplies,2024-12-01,ADD,4870,New stock received
+TXN3200,WH001,Packaging,2024-12-01,ADD,4983,New stock received
+TXN2891,WH002,Paper Products,2024-12-01,REMOVE,4703,Customer shipment
+TXN3546,WH002,Writing Tools,2024-12-01,ADD,2268,New stock received
+TXN5616,WH002,Electronics,2024-12-01,REMOVE,2369,Customer shipment
+TXN6617,WH002,Printing Supplies,2024-12-01,ADD,2635,New stock received
+TXN5325,WH002,Packaging,2024-12-01,ADD,3129,New stock received
+TXN5114,WH003,Paper Products,2024-12-01,REMOVE,3693,Customer shipment
+TXN2512,WH003,Writing Tools,2024-12-01,ADD,3682,New stock received
+TXN5533,WH003,Electronics,2024-12-01,REMOVE,2656,Customer shipment
+TXN1058,WH003,Printing Supplies,2024-12-01,ADD,2119,New stock received
+TXN3143,WH003,Packaging,2024-12-01,REMOVE,2830,Customer shipment
+TXN3647,WH004,Paper Products,2024-12-01,REMOVE,3810,Customer shipment
+TXN8007,WH004,Writing Tools,2024-12-01,REMOVE,3081,Customer shipment
+TXN2832,WH004,Electronics,2024-12-01,ADD,3974,New stock received
+TXN3442,WH004,Printing Supplies,2024-12-01,ADD,3369,New stock received
+TXN7049,WH004,Packaging,2024-12-01,ADD,2740,New stock received
+TXN8041,WH005,Paper Products,2024-12-01,ADD,2116,New stock received
+TXN1685,WH005,Writing Tools,2024-12-01,ADD,3853,New stock received
+TXN6974,WH005,Electronics,2024-12-01,REMOVE,4838,Customer shipment
+TXN6862,WH005,Printing Supplies,2024-12-01,ADD,3150,New stock received
+TXN5088,WH005,Packaging,2024-12-01,ADD,3931,New stock received
+TXN6794,WH001,Paper Products,2025-01-01,ADD,3012,New stock received
+TXN3532,WH001,Writing Tools,2025-01-01,REMOVE,3664,Customer shipment
+TXN3662,WH001,Electronics,2025-01-01,ADD,3081,New stock received
+TXN7755,WH001,Printing Supplies,2025-01-01,ADD,2633,New stock received
+TXN3938,WH001,Packaging,2025-01-01,ADD,2512,New stock received
+TXN7745,WH002,Paper Products,2025-01-01,REMOVE,4849,Customer shipment
+TXN5371,WH002,Writing Tools,2025-01-01,ADD,3119,New stock received
+TXN2771,WH002,Electronics,2025-01-01,ADD,3141,New stock received
+TXN1634,WH002,Printing Supplies,2025-01-01,REMOVE,2559,Customer shipment
+TXN4644,WH002,Packaging,2025-01-01,REMOVE,2487,Customer shipment
+TXN8541,WH003,Paper Products,2025-01-01,ADD,2896,New stock received
+TXN6000,WH003,Writing Tools,2025-01-01,REMOVE,3212,Customer shipment
+TXN4652,WH003,Electronics,2025-01-01,ADD,2703,New stock received
+TXN4164,WH003,Printing Supplies,2025-01-01,ADD,3470,New stock received
+TXN6378,WH003,Packaging,2025-01-01,REMOVE,2580,Customer shipment
+TXN2137,WH004,Paper Products,2025-01-01,REMOVE,4837,Customer shipment
+TXN6753,WH004,Writing Tools,2025-01-01,REMOVE,4908,Customer shipment
+TXN9785,WH004,Electronics,2025-01-01,REMOVE,4294,Customer shipment
+TXN1452,WH004,Printing Supplies,2025-01-01,REMOVE,2153,Customer shipment
+TXN5279,WH004,Packaging,2025-01-01,ADD,3679,New stock received
+TXN5349,WH005,Paper Products,2025-01-01,ADD,2996,New stock received
+TXN2776,WH005,Writing Tools,2025-01-01,ADD,4744,New stock received
+TXN6663,WH005,Electronics,2025-01-01,REMOVE,3243,Customer shipment
+TXN8149,WH005,Printing Supplies,2025-01-01,REMOVE,3092,Customer shipment
+TXN7311,WH005,Packaging,2025-01-01,ADD,3008,New stock received
+TXN5173,WH001,Paper Products,2025-02-01,ADD,4141,New stock received
+TXN8144,WH001,Writing Tools,2025-02-01,ADD,3773,New stock received
+TXN9518,WH001,Electronics,2025-02-01,ADD,2957,New stock received
+TXN6967,WH001,Printing Supplies,2025-02-01,ADD,2452,New stock received
+TXN2146,WH001,Packaging,2025-02-01,REMOVE,3227,Customer shipment
+TXN6143,WH002,Paper Products,2025-02-01,REMOVE,4959,Customer shipment
+TXN5920,WH002,Writing Tools,2025-02-01,ADD,4265,New stock received
+TXN7691,WH002,Electronics,2025-02-01,REMOVE,4521,Customer shipment
+TXN7592,WH002,Printing Supplies,2025-02-01,REMOVE,4479,Customer shipment
+TXN3085,WH002,Packaging,2025-02-01,REMOVE,4388,Customer shipment
+TXN7888,WH003,Paper Products,2025-02-01,ADD,2550,New stock received
+TXN3851,WH003,Writing Tools,2025-02-01,REMOVE,3635,Customer shipment
+TXN7653,WH003,Electronics,2025-02-01,REMOVE,3312,Customer shipment
+TXN5978,WH003,Printing Supplies,2025-02-01,ADD,3757,New stock received
+TXN4443,WH003,Packaging,2025-02-01,REMOVE,2356,Customer shipment
+TXN6279,WH004,Paper Products,2025-02-01,REMOVE,4070,Customer shipment
+TXN8238,WH004,Writing Tools,2025-02-01,REMOVE,3785,Customer shipment
+TXN4501,WH004,Electronics,2025-02-01,REMOVE,4569,Customer shipment
+TXN3780,WH004,Printing Supplies,2025-02-01,REMOVE,3781,Customer shipment
+TXN5649,WH004,Packaging,2025-02-01,ADD,4849,New stock received
+TXN2530,WH005,Paper Products,2025-02-01,REMOVE,4809,Customer shipment
+TXN6085,WH005,Writing Tools,2025-02-01,ADD,4489,New stock received
+TXN4262,WH005,Electronics,2025-02-01,ADD,3631,New stock received
+TXN1400,WH005,Printing Supplies,2025-02-01,ADD,4816,New stock received
+TXN5011,WH005,Packaging,2025-02-01,ADD,3015,New stock received
+TXN2193,WH001,Paper Products,2025-03-01,REMOVE,3348,Customer shipment
+TXN7790,WH001,Writing Tools,2025-03-01,REMOVE,2515,Customer shipment
+TXN7291,WH001,Electronics,2025-03-01,ADD,4839,New stock received
+TXN7547,WH001,Printing Supplies,2025-03-01,REMOVE,2335,Customer shipment
+TXN3417,WH001,Packaging,2025-03-01,ADD,3782,New stock received
+TXN2746,WH002,Paper Products,2025-03-01,ADD,4305,New stock received
+TXN4585,WH002,Writing Tools,2025-03-01,REMOVE,2496,Customer shipment
+TXN9486,WH002,Electronics,2025-03-01,ADD,2895,New stock received
+TXN1822,WH002,Printing Supplies,2025-03-01,REMOVE,4207,Customer shipment
+TXN2988,WH002,Packaging,2025-03-01,ADD,2851,New stock received
+TXN3184,WH003,Paper Products,2025-03-01,REMOVE,3687,Customer shipment
+TXN9702,WH003,Writing Tools,2025-03-01,REMOVE,3931,Customer shipment
+TXN8251,WH003,Electronics,2025-03-01,REMOVE,4737,Customer shipment
+TXN9976,WH003,Printing Supplies,2025-03-01,REMOVE,4427,Customer shipment
+TXN3607,WH003,Packaging,2025-03-01,REMOVE,3568,Customer shipment
+TXN8373,WH004,Paper Products,2025-03-01,REMOVE,2956,Customer shipment
+TXN5050,WH004,Writing Tools,2025-03-01,REMOVE,4738,Customer shipment
+TXN9540,WH004,Electronics,2025-03-01,REMOVE,3636,Customer shipment
+TXN4919,WH004,Printing Supplies,2025-03-01,REMOVE,3291,Customer shipment
+TXN8206,WH004,Packaging,2025-03-01,REMOVE,3440,Customer shipment
+TXN5681,WH005,Paper Products,2025-03-01,ADD,3191,New stock received
+TXN5451,WH005,Writing Tools,2025-03-01,ADD,3066,New stock received
+TXN6238,WH005,Electronics,2025-03-01,REMOVE,2284,Customer shipment
+TXN3267,WH005,Printing Supplies,2025-03-01,ADD,4444,New stock received
+TXN4788,WH005,Packaging,2025-03-01,ADD,2011,New stock received

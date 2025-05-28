@@ -1,0 +1,6 @@
+Supplier_ID,Supplier_Name,Region,Product_Category,Lead_Time_Days,On_Time_Delivery_Rate,Avg_Shipment_Quantity
+SUP001,Global Paper Inc.,North America,Paper Products,11,0.88,5974
+SUP002,OfficeMax Supplies,Asia,Writing Tools,6,0.91,5277
+SUP003,TechStation Ltd,Europe,Electronics,10,0.88,6010
+SUP004,FlexPrint Co.,South America,Printing Supplies,15,0.89,6996
+SUP005,GreenPack Solutions,Asia,Packaging,10,0.89,5431
